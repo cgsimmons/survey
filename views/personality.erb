@@ -1,2 +1,3 @@
 <img width="350px" src="<%= @personality %>.jpg">
+<h1>You are <%= (@personality == "Artisan" || @personality == "Idealist" ? "an " : "a ") + @personality %></h1>
 <p><%= $p_types[@personality.to_sym][2] %></p>

@@ -1,6 +1,6 @@
 require 'sinatra'
 require 'sinatra/reloader'
-$p_types = {Rational: [[0,0,0], [1,0,0], "You are both logical and creative. You are full of ideas.
+$p_types = {Rationalist: [[0,0,0], [1,0,0], "You are both logical and creative. You are full of ideas.
 You are so rational that you analyze everything. This drives people a little crazy!
 
 Intelligence is important to you. You always like to be around smart people.
